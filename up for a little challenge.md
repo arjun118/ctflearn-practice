@@ -10,7 +10,7 @@ https://mega.nz/#!z8hACJbb!vQB569ptyQjNEoxIwHrUhwWu5WCj1JWmU-OFjf90Prg
 
 ## mega link
 
-we find a zip file names Up for a little challenge.zip
+we find a zip file named Up for a little challenge.zip
 
 unzip the file,navigate to Did I Forget Again? directory and list all the files.
 we will find a hidden file named .Processing.cerb.4 which is indeed a zip file(use file command).
